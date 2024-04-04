@@ -1,0 +1,47 @@
+[
+    {
+        "portfolio_name": "alpha",
+        "portfolio_owner": "john",
+        "portfolio_assets": {
+            "nasdaq": 25,
+            "crude_oil": 50,
+            "gold": 25
+        },
+        "investing_users": [
+            {
+                "user_name": "jim",
+                "initial_amount": 1000,
+                "investment_date": "03/04/2024",
+                "current_balance": 1000
+            },
+            {
+                "user_name": "james",
+                "initial_amount": 500,
+                "investment_date": "03/04/2024",
+                "current_balance": 500
+            }
+        ]
+    },
+    {
+        "portfolio_name": "bravo",
+        "portfolio_owner": "james",
+        "portfolio_assets": {
+            "dow_30": 50,
+            "crude_oil": 50
+        },
+        "investing_users": [
+            {
+                "user_name": "john",
+                "initial_amount": 1000,
+                "investment_date": "03/04/2024",
+                "current_balance": 1000
+            },
+            {
+                "user_name": "jim",
+                "initial_amount": 500,
+                "investment_date": "03/04/2024",
+                "current_balance": 500
+            }
+        ]
+    }
+]

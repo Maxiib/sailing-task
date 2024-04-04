@@ -1,0 +1,45 @@
+[
+    {
+        "user_name": "john",
+        "user_pass": "12john",
+        "portafolios_owned": [
+            "alpha"
+        ],
+        "portfolios_invested": [
+            "bravo"
+        ],
+        "cash_in": 1000,
+        "cash_out": 0
+    },
+    {
+        "user_name": "jim",
+        "user_pass": "12jim",
+        "portafolios_owned": [],
+        "portfolios_invested": [
+            "bravo",
+            "alpha"
+        ],
+        "cash_in": 1500,
+        "cash_out": 0
+    },
+    {
+        "user_name": "james",
+        "user_pass": "12james",
+        "portafolios_owned": [
+            "bravo"
+        ],
+        "portfolios_invested": [
+            "alpha"
+        ],
+        "cash_in": 500,
+        "cash_out": 0
+    },
+    {
+        "user_name": "jay",
+        "user_pass": "12jay",
+        "portafolios_owned": [],
+        "portfolios_invested": [],
+        "cash_in": 0,
+        "cash_out": 0
+    }
+]
